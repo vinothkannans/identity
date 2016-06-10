@@ -12,4 +12,4 @@
 | Red         	| 400   	| #EF5350   	|
 | Indigo       	| 500   	| #3F51B5   	|
 
-These colors are based on [material design color palette](https://material.google.com/style/color.html#color-color-palette)
+Colors are inspired from [material design color palette](https://material.google.com/style/color.html#color-color-palette)
