@@ -1,4 +1,4 @@
-#Colors
+ #Colors
 
 | Name        	| Shade 	| Hex Color 	|
 |-------------	|-------	|-----------	|
